@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Araujo
 
-<!--
-**15LUCASARAUJO/15LUCASARAUJO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em evolução | JavaScript | Python | Foco em backend e APIs
+Construindo soluções reais, resolvendo problemas práticos e disponível para projetos freelancers.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu Foco Atual
+- Consolidando minhas bases no ecossistema Web (**HTML, CSS e JavaScript**) através da construção diária de projetos.
+- Mergulhando em **Python** para construir lógicas de Backend estruturadas e explorar o mundo da Inteligência Artificial.
+- Aplicando meus conhecimentos para resolver problemas reais de negócios.
+
+---
+
+## Tecnologias e Ferramentas
+
+### Frontend
+- HTML5 & CSS3
+- JavaScript
+
+### Backend & Dados
+- Python
+- APIs REST (Em desenvolvimento)
+- Bancos de dados (SQLite / PostgreSQL)
+
+---
+
+## Vamos conversar!
+Estou aberto a oportunidades como freelancer e parcerias em projetos de tecnologia.
+
+- **LinkedIn:** [Link para o seu LinkedIn]
+- **Email:** [Seu email de contato profissional]
+- **GitHub:** [github.com/15LUCASARAUJO](https://github.com/15LUCASARAUJO)
