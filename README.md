@@ -28,5 +28,5 @@ Construindo soluções reais, resolvendo problemas práticos e disponível para 
 ## Vamos conversar!
 Estou aberto a oportunidades como freelancer e parcerias em projetos de tecnologia.
 
-- **Email:** [email de contato](work.lucasaraujo@gmail.com)
+- **Email:** work.lucasaraujo@gmail.com
 - **GitHub:** [github.com/15LUCASARAUJO](https://github.com/15LUCASARAUJO)
