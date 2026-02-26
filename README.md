@@ -31,8 +31,7 @@ I am open to freelance opportunities and tech project partnerships.
 - **Email:** work.lucasaraujo@gmail.com
 - **GitHub:** [github.com/15LUCASARAUJO](https://github.com/15LUCASARAUJO)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 # Olá, eu sou o Lucas Araujo
 
