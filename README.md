@@ -35,7 +35,8 @@ I am open to freelance opportunities and tech project partnerships.
 
 <details>
   <summary>Versão em Português</summary>
-  # Olá, eu sou o Lucas Araujo
+  
+# Olá, eu sou o Lucas Araujo
 
 Desenvolvedor Full Stack em evolução | JavaScript | Python | Foco em backend e APIs
 Construindo soluções reais, resolvendo problemas práticos e disponível para projetos freelancers.
